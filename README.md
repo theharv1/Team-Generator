@@ -1,12 +1,8 @@
-# Team-Generator
 ## Purpose
-A team-Generator
+to produce a team Generator, to show manager's, employee's and interns.
 
 ## Built With
 * JavaScript
-
-## Website
-
 
 ## Contribution
 Made by Shawn 
